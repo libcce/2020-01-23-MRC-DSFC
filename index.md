@@ -16,10 +16,9 @@ email: ["Juliane_Schneider@hms.harvard.edu", "erdmannc@renci.org"]    # boxed, c
 collaborative_notes: https://pad.carpentries.org/2020-01-23-MRC-DSFC             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
+<img src="fig/mrc-logo.png" alt="Metadata Research Center">
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-
-<img src="fig/mrc-logo.png" alt="Metadata Research Center">
 
 {% comment %}
 HEADER
